@@ -1,0 +1,169 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+#home {
+	background: url(../images/background3.jpg)no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: table;
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+#aboutme {
+	display: table;
+	position: relative;
+	height: 55%;
+	width: 80%;
+  margin-left: 250px;
+}
+
+#education{
+  display: table;
+	position: relative;
+	height: 55%;
+	width: 80%;
+  margin-left: 210px;
+}
+#education h2{
+  text-align: center;
+}
+
+#projects{
+  display: table;
+	position: relative;
+	height: 55%;
+	width: 80%;
+  margin-left: 210px;
+}
+#projects h2{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#workexp{
+  display: table;
+	position: relative;
+	height: 55%;
+	width: 80%;
+  margin-left: 210px;
+}
+
+#workexp h2{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+
+.landing-screen {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.landing-screen h1 {
+	font-size: 300%;
+	font-weight: 200%;
+	color: white;
+}
+
+.landing-screen h2 {
+	color: white;
+}
+
+.topics {
+  padding-top: 4rem;
+  margin: 2rem;
+}
+
+.nav-link {
+  color: grey;
+}
+
+.nav-link:hover {
+  color: white;
+  align-items: baseline;
+}
+
+
+.padding {
+  padding: 100px 100px;
+  padding-left: 100px;
+}
+
+.nav-pills .nav-link.active{
+  color:white;
+  background-color: rgb(54, 79, 131);
+}
+
+.btn-group-lg > .btn, .btn-lg {
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+  
+  }
+  .btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+  
+  }
+
+
+.how-section1{
+  padding: 10%;
+  padding-top: 0px;
+}
+
+.how-section1 h4{
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.how-section1 .subheading{
+    color: rgb(54, 79, 131);
+    font-size: 20px;
+}
+
+.how-section1 .row{
+  margin-top: 10%;
+}
+
+.how-img {
+  text-align: center;
+}
+
+#contactme {
+  display: table;
+	position: relative;
+	height: 55%;
+	width: 80%;
+  margin-left: 230px;
+  padding-right: 500px;
+  padding-left: 450px;
+}
+
+#contactme h2{
+  text-align: center;
+}
+
+
+#info {
+  display: table;
+	position: relative;
+	height: 55%;
+	width: 80%;
+  margin-left: 200px;
+  margin-top: 200px;
+}
+
+#info h2 {
+  text-align: center;
+}
